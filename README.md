@@ -1,1 +1,1 @@
-# ASL_Letter_Detection
+This project was part of my TensowFlow certification and is a Convolutional Neural Network that is trained to detect Rock Paper and Scissors hand gestures. The model uses ImageDataGenerator to label and stream images for training and validation. Augmentation and dropout are also used to prevent overfitting. TensorFlow and Keras are used to build the model, and matplotlib is used to plot the performance of the model.
